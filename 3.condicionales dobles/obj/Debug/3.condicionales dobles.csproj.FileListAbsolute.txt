@@ -1,0 +1,8 @@
+C:\Users\adria\source\repos\3.condicionales dobles\obj\Debug\3.condicionales dobles.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\3.condicionales dobles\obj\Debug\3.condicionales dobles.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\3.condicionales dobles\bin\Debug\3.condicionales dobles.exe.config
+C:\Users\adria\source\repos\3.condicionales dobles\bin\Debug\3.condicionales dobles.exe
+C:\Users\adria\source\repos\3.condicionales dobles\bin\Debug\3.condicionales dobles.pdb
+C:\Users\adria\source\repos\3.condicionales dobles\obj\Debug\3.condicionales dobles.exe
+C:\Users\adria\source\repos\3.condicionales dobles\obj\Debug\3.condicionales dobles.pdb
+C:\Users\adria\source\repos\3.condicionales dobles\obj\Debug\3.condicionales dobles.exe.config

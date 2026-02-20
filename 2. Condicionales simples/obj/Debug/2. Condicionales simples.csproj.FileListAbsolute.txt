@@ -1,0 +1,8 @@
+C:\Users\adria\source\repos\2. Condicionales simples\obj\Debug\2. Condicionales simples.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\2. Condicionales simples\obj\Debug\2. Condicionales simples.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\2. Condicionales simples\bin\Debug\_2.Condicionales_simples.exe.config
+C:\Users\adria\source\repos\2. Condicionales simples\bin\Debug\_2.Condicionales_simples.exe
+C:\Users\adria\source\repos\2. Condicionales simples\bin\Debug\_2.Condicionales_simples.pdb
+C:\Users\adria\source\repos\2. Condicionales simples\obj\Debug\_2.Condicionales_simples.exe
+C:\Users\adria\source\repos\2. Condicionales simples\obj\Debug\_2.Condicionales_simples.pdb
+C:\Users\adria\source\repos\2. Condicionales simples\obj\Debug\_2.Condicionales_simples.exe.config

@@ -1,0 +1,8 @@
+C:\Users\adria\source\repos\5.condicionalesanidados\bin\Debug\5.condicionalesanidados.exe.config
+C:\Users\adria\source\repos\5.condicionalesanidados\bin\Debug\5.condicionalesanidados.exe
+C:\Users\adria\source\repos\5.condicionalesanidados\bin\Debug\5.condicionalesanidados.pdb
+C:\Users\adria\source\repos\5.condicionalesanidados\obj\Debug\5.condicionalesanidados.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\5.condicionalesanidados\obj\Debug\5.condicionalesanidados.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\5.condicionalesanidados\obj\Debug\5.condicionalesanidados.exe
+C:\Users\adria\source\repos\5.condicionalesanidados\obj\Debug\5.condicionalesanidados.pdb
+C:\Users\adria\source\repos\5.condicionalesanidados\obj\Debug\5.condicionalesanidados.exe.config

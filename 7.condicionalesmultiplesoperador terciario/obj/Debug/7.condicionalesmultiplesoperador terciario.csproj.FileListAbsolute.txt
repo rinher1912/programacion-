@@ -1,0 +1,8 @@
+C:\Users\adria\source\repos\7.condicionalesmultiplesoperador terciario\bin\Debug\7.condicionalesmultiplesoperador terciario.exe.config
+C:\Users\adria\source\repos\7.condicionalesmultiplesoperador terciario\bin\Debug\7.condicionalesmultiplesoperador terciario.exe
+C:\Users\adria\source\repos\7.condicionalesmultiplesoperador terciario\bin\Debug\7.condicionalesmultiplesoperador terciario.pdb
+C:\Users\adria\source\repos\7.condicionalesmultiplesoperador terciario\obj\Debug\7.condicionalesmultiplesoperador terciario.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\7.condicionalesmultiplesoperador terciario\obj\Debug\7.condicionalesmultiplesoperador terciario.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\7.condicionalesmultiplesoperador terciario\obj\Debug\7.condicionalesmultiplesoperador terciario.exe
+C:\Users\adria\source\repos\7.condicionalesmultiplesoperador terciario\obj\Debug\7.condicionalesmultiplesoperador terciario.pdb
+C:\Users\adria\source\repos\7.condicionalesmultiplesoperador terciario\obj\Debug\7.condicionalesmultiplesoperador terciario.exe.config

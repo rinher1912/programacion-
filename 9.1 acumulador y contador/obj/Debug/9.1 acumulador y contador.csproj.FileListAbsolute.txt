@@ -1,0 +1,8 @@
+C:\Users\adria\source\repos\9.1 acumulador y contador\bin\Debug\9.1 acumulador y contador.exe.config
+C:\Users\adria\source\repos\9.1 acumulador y contador\bin\Debug\9.1 acumulador y contador.exe
+C:\Users\adria\source\repos\9.1 acumulador y contador\bin\Debug\9.1 acumulador y contador.pdb
+C:\Users\adria\source\repos\9.1 acumulador y contador\obj\Debug\9.1 acumulador y contador.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\9.1 acumulador y contador\obj\Debug\9.1 acumulador y contador.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\9.1 acumulador y contador\obj\Debug\9.1 acumulador y contador.exe
+C:\Users\adria\source\repos\9.1 acumulador y contador\obj\Debug\9.1 acumulador y contador.pdb
+C:\Users\adria\source\repos\9.1 acumulador y contador\obj\Debug\9.1 acumulador y contador.exe.config

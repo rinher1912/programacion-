@@ -1,0 +1,8 @@
+C:\Users\adria\source\repos\8.taller pre parcial\bin\Debug\8.taller pre parcial.exe.config
+C:\Users\adria\source\repos\8.taller pre parcial\bin\Debug\8.taller pre parcial.exe
+C:\Users\adria\source\repos\8.taller pre parcial\bin\Debug\8.taller pre parcial.pdb
+C:\Users\adria\source\repos\8.taller pre parcial\obj\Debug\8.taller pre parcial.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\8.taller pre parcial\obj\Debug\8.taller pre parcial.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\8.taller pre parcial\obj\Debug\8.taller pre parcial.exe
+C:\Users\adria\source\repos\8.taller pre parcial\obj\Debug\8.taller pre parcial.pdb
+C:\Users\adria\source\repos\8.taller pre parcial\obj\Debug\8.taller pre parcial.exe.config

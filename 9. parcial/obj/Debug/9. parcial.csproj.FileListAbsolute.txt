@@ -1,0 +1,8 @@
+C:\Users\adria\source\repos\9. parcial\bin\Debug\_9.parcial.exe.config
+C:\Users\adria\source\repos\9. parcial\bin\Debug\_9.parcial.exe
+C:\Users\adria\source\repos\9. parcial\bin\Debug\_9.parcial.pdb
+C:\Users\adria\source\repos\9. parcial\obj\Debug\9. parcial.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\9. parcial\obj\Debug\9. parcial.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\9. parcial\obj\Debug\_9.parcial.exe
+C:\Users\adria\source\repos\9. parcial\obj\Debug\_9.parcial.pdb
+C:\Users\adria\source\repos\9. parcial\obj\Debug\_9.parcial.exe.config

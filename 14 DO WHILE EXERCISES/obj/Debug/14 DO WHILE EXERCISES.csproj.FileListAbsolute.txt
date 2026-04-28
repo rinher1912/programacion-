@@ -1,0 +1,8 @@
+C:\Users\adria\source\repos\14 DO WHILE EXERCISES\bin\Debug\14 DO WHILE EXERCISES.exe.config
+C:\Users\adria\source\repos\14 DO WHILE EXERCISES\bin\Debug\14 DO WHILE EXERCISES.exe
+C:\Users\adria\source\repos\14 DO WHILE EXERCISES\bin\Debug\14 DO WHILE EXERCISES.pdb
+C:\Users\adria\source\repos\14 DO WHILE EXERCISES\obj\Debug\14 DO WHILE EXERCISES.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\14 DO WHILE EXERCISES\obj\Debug\14 DO WHILE EXERCISES.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\14 DO WHILE EXERCISES\obj\Debug\14 DO WHILE EXERCISES.exe
+C:\Users\adria\source\repos\14 DO WHILE EXERCISES\obj\Debug\14 DO WHILE EXERCISES.pdb
+C:\Users\adria\source\repos\14 DO WHILE EXERCISES\obj\Debug\14 DO WHILE EXERCISES.exe.config

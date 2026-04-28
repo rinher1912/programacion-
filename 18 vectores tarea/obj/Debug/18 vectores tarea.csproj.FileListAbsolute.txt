@@ -1,0 +1,8 @@
+C:\Users\adria\source\repos\18 vectores tarea\bin\Debug\18 vectores tarea.exe.config
+C:\Users\adria\source\repos\18 vectores tarea\bin\Debug\18 vectores tarea.exe
+C:\Users\adria\source\repos\18 vectores tarea\bin\Debug\18 vectores tarea.pdb
+C:\Users\adria\source\repos\18 vectores tarea\obj\Debug\18 vectores tarea.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\18 vectores tarea\obj\Debug\18 vectores tarea.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\18 vectores tarea\obj\Debug\18 vectores tarea.exe
+C:\Users\adria\source\repos\18 vectores tarea\obj\Debug\18 vectores tarea.pdb
+C:\Users\adria\source\repos\18 vectores tarea\obj\Debug\18 vectores tarea.exe.config

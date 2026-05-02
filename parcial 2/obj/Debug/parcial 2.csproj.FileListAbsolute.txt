@@ -1,0 +1,8 @@
+C:\Users\adria\source\repos\parcial 2\bin\Debug\parcial 2.exe.config
+C:\Users\adria\source\repos\parcial 2\bin\Debug\parcial 2.exe
+C:\Users\adria\source\repos\parcial 2\bin\Debug\parcial 2.pdb
+C:\Users\adria\source\repos\parcial 2\obj\Debug\parcial 2.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\parcial 2\obj\Debug\parcial 2.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\parcial 2\obj\Debug\parcial 2.exe
+C:\Users\adria\source\repos\parcial 2\obj\Debug\parcial 2.pdb
+C:\Users\adria\source\repos\parcial 2\obj\Debug\parcial 2.exe.config
